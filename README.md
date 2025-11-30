@@ -146,3 +146,5 @@ __pycache__/
 ---
 
 
+## Notes
+This project is intended for educational and personal project purposes only. It is not financial advice and should not be used for real investment decisions.
