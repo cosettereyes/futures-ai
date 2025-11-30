@@ -145,11 +145,4 @@ __pycache__/
 
 ---
 
-## Contributing
-Contributions, feature additions, and improvements are welcome.  
-Please open an issue or submit a pull request.
 
----
-
-## License
-MIT License
